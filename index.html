@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Covering the Spread — Narrative Visualization</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 40px;
+            max-width: 960px;
+        }
+
+        h2,
+        h3 {
+            margin-top: 40px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        .tooltip {
+            position: absolute;
+            background-color: white;
+            padding: 6px;
+            border: 1px solid #aaa;
+            border-radius: 4px;
+            pointer-events: none;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Scene 1 -->
+    <h3>Scene 1: What Does It Mean to Cover the Spread?</h3>
+    <p>This introductory example helps you understand what “covering the spread” means in NFL betting.
+        The Patriots were expected to win by 7 points, but they actually won by 10. Since they exceeded expectations,
+        they <strong>covered the spread</strong>.
+    </p>
+    <img src="images/scene1.png" alt="Scene 1: Covering the Spread Example">
+
+    <!-- Scene 2 -->
+    <h3>Scene 2: Trends Over Time</h3>
+    <p>This chart shows how often favorites win or cover the spread and how underdogs perform, from 2010 to 2024.</p>
+    <img src="images/scene2.png" alt="Scene 2: Spread Trends Over Time">
+
+    <!-- Scene 3 -->
+    <h3>Scene 3: Team Trends Over Time</h3>
+    <p>Use the dropdown to explore win, cover, and push percentages by team and year.</p>
+
+    <div id="scene3">
+        <h2>Covering the Spread: Scene 3 — Team Trends Over Time</h2>
+
+        <label for="teamSelect">Select a team:</label>
+        <select id="teamSelect"></select>
+
+        <div>
+            <label><input type="checkbox" class="toggle" value="win" checked> Win %</label>
+            <label><input type="checkbox" class="toggle" value="cover" checked> Cover %</label>
+            <label><input type="checkbox" class="toggle" value="push" checked> Push %</label>
+        </div>
+
+        <svg id="chart" width="960" height="500"></svg>
+        <div class="tooltip" style="display: none;"></div>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="js/scene3.js"></script>
+
+</body>
+
+</html>

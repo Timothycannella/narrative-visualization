@@ -1,0 +1,481 @@
+season,team,total_games,wins,covers,pushes,win_pct,cover_pct,push_pct
+2010,Arizona Cardinals,16,5,4,0,31.25,25.0,0.0
+2010,Atlanta Falcons,17,13,11,0,76.47,64.71,0.0
+2010,Baltimore Ravens,18,13,9,1,72.22,50.0,5.56
+2010,Buffalo Bills,16,4,7,0,25.0,43.75,0.0
+2010,Carolina Panthers,16,2,4,0,12.5,25.0,0.0
+2010,Chicago Bears,18,12,11,1,66.67,61.11,5.56
+2010,Cincinnati Bengals,16,4,6,0,25.0,37.5,0.0
+2010,Cleveland Browns,16,5,5,0,31.25,31.25,0.0
+2010,Dallas Cowboys,16,6,6,0,37.5,37.5,0.0
+2010,Denver Broncos,16,4,4,0,25.0,25.0,0.0
+2010,Detroit Lions,16,6,8,0,37.5,50.0,0.0
+2010,Green Bay Packers,20,14,14,2,70.0,70.0,10.0
+2010,Houston Texans,16,6,7,0,37.5,43.75,0.0
+2010,Indianapolis Colts,17,10,11,0,58.82,64.71,0.0
+2010,Jacksonville Jaguars,16,8,8,0,50.0,50.0,0.0
+2010,Kansas City Chiefs,17,10,9,0,58.82,52.94,0.0
+2010,Miami Dolphins,16,7,7,0,43.75,43.75,0.0
+2010,Minnesota Vikings,16,6,5,1,37.5,31.25,6.25
+2010,New England Patriots,17,14,10,1,82.35,58.82,5.88
+2010,New Orleans Saints,17,11,10,1,64.71,58.82,5.88
+2010,New York Giants,16,10,8,0,62.5,50.0,0.0
+2010,New York Jets,19,13,12,0,68.42,63.16,0.0
+2010,Oakland Raiders,16,8,8,0,50.0,50.0,0.0
+2010,Philadelphia Eagles,17,10,9,0,58.82,52.94,0.0
+2010,Pittsburgh Steelers,19,14,14,0,73.68,73.68,0.0
+2010,San Diego Chargers,16,9,10,0,56.25,62.5,0.0
+2010,San Francisco 49ers,16,6,6,0,37.5,37.5,0.0
+2010,Seattle Seahawks,18,8,7,0,44.44,38.89,0.0
+2010,St. Louis Rams,16,7,9,0,43.75,56.25,0.0
+2010,Tampa Bay Buccaneers,16,10,11,0,62.5,68.75,0.0
+2010,Tennessee Titans,16,6,7,0,37.5,43.75,0.0
+2010,Washington Redskins,16,6,6,1,37.5,37.5,6.25
+2011,Arizona Cardinals,16,8,7,2,50.0,43.75,12.5
+2011,Atlanta Falcons,17,10,8,1,58.82,47.06,5.88
+2011,Baltimore Ravens,18,13,11,1,72.22,61.11,5.56
+2011,Buffalo Bills,16,6,5,2,37.5,31.25,12.5
+2011,Carolina Panthers,16,6,7,1,37.5,43.75,6.25
+2011,Chicago Bears,16,8,8,0,50.0,50.0,0.0
+2011,Cincinnati Bengals,17,9,8,2,52.94,47.06,11.76
+2011,Cleveland Browns,16,4,6,1,25.0,37.5,6.25
+2011,Dallas Cowboys,16,8,7,0,50.0,43.75,0.0
+2011,Denver Broncos,18,9,6,0,50.0,33.33,0.0
+2011,Detroit Lions,17,10,10,0,58.82,58.82,0.0
+2011,Green Bay Packers,17,15,14,0,88.24,82.35,0.0
+2011,Houston Texans,18,11,12,1,61.11,66.67,5.56
+2011,Indianapolis Colts,16,2,4,0,12.5,25.0,0.0
+2011,Jacksonville Jaguars,16,5,6,1,31.25,37.5,6.25
+2011,Kansas City Chiefs,16,7,6,1,43.75,37.5,6.25
+2011,Miami Dolphins,16,6,9,1,37.5,56.25,6.25
+2011,Minnesota Vikings,16,3,5,1,18.75,31.25,6.25
+2011,New England Patriots,19,15,12,0,78.95,63.16,0.0
+2011,New Orleans Saints,18,14,16,0,77.78,88.89,0.0
+2011,New York Giants,20,13,11,1,65.0,55.0,5.0
+2011,New York Jets,16,8,7,1,50.0,43.75,6.25
+2011,Oakland Raiders,16,8,9,0,50.0,56.25,0.0
+2011,Philadelphia Eagles,16,8,8,0,50.0,50.0,0.0
+2011,Pittsburgh Steelers,17,12,11,0,70.59,64.71,0.0
+2011,San Diego Chargers,16,8,6,1,50.0,37.5,6.25
+2011,San Francisco 49ers,18,14,15,0,77.78,83.33,0.0
+2011,Seattle Seahawks,16,7,6,2,43.75,37.5,12.5
+2011,St. Louis Rams,16,2,1,0,12.5,6.25,0.0
+2011,Tampa Bay Buccaneers,16,4,3,0,25.0,18.75,0.0
+2011,Tennessee Titans,16,9,8,0,56.25,50.0,0.0
+2011,Washington Redskins,16,5,5,0,31.25,31.25,0.0
+2012,Arizona Cardinals,16,5,7,0,31.25,43.75,0.0
+2012,Atlanta Falcons,18,14,10,0,77.78,55.56,0.0
+2012,Baltimore Ravens,20,14,12,0,70.0,60.0,0.0
+2012,Buffalo Bills,16,6,7,0,37.5,43.75,0.0
+2012,Carolina Panthers,16,7,9,1,43.75,56.25,6.25
+2012,Chicago Bears,16,10,8,0,62.5,50.0,0.0
+2012,Cincinnati Bengals,17,10,9,1,58.82,52.94,5.88
+2012,Cleveland Browns,16,5,6,1,31.25,37.5,6.25
+2012,Dallas Cowboys,16,8,6,0,50.0,37.5,0.0
+2012,Denver Broncos,17,13,12,0,76.47,70.59,0.0
+2012,Detroit Lions,16,4,5,0,25.0,31.25,0.0
+2012,Green Bay Packers,18,12,12,1,66.67,66.67,5.56
+2012,Houston Texans,18,13,12,0,72.22,66.67,0.0
+2012,Indianapolis Colts,17,11,8,2,64.71,47.06,11.76
+2012,Jacksonville Jaguars,16,2,6,0,12.5,37.5,0.0
+2012,Kansas City Chiefs,16,2,2,1,12.5,12.5,6.25
+2012,Miami Dolphins,16,7,6,1,43.75,37.5,6.25
+2012,Minnesota Vikings,17,10,8,2,58.82,47.06,11.76
+2012,New England Patriots,18,13,13,0,72.22,72.22,0.0
+2012,New Orleans Saints,16,7,8,0,43.75,50.0,0.0
+2012,New York Giants,16,9,8,0,56.25,50.0,0.0
+2012,New York Jets,16,6,6,0,37.5,37.5,0.0
+2012,Oakland Raiders,16,4,4,0,25.0,25.0,0.0
+2012,Philadelphia Eagles,16,4,5,0,25.0,31.25,0.0
+2012,Pittsburgh Steelers,16,8,8,0,50.0,50.0,0.0
+2012,San Diego Chargers,16,7,8,0,43.75,50.0,0.0
+2012,San Francisco 49ers,19,13,12,0,68.42,63.16,0.0
+2012,Seattle Seahawks,18,12,11,1,66.67,61.11,5.56
+2012,St. Louis Rams,16,7,9,0,43.75,56.25,0.0
+2012,Tampa Bay Buccaneers,16,7,9,0,43.75,56.25,0.0
+2012,Tennessee Titans,16,6,4,1,37.5,25.0,6.25
+2012,Washington Redskins,17,10,11,0,58.82,64.71,0.0
+2013,Arizona Cardinals,16,10,11,0,62.5,68.75,0.0
+2013,Atlanta Falcons,16,4,5,0,25.0,31.25,0.0
+2013,Baltimore Ravens,16,8,8,0,50.0,50.0,0.0
+2013,Buffalo Bills,16,6,4,0,37.5,25.0,0.0
+2013,Carolina Panthers,17,12,12,1,70.59,70.59,5.88
+2013,Chicago Bears,16,8,4,1,50.0,25.0,6.25
+2013,Cincinnati Bengals,17,11,12,1,64.71,70.59,5.88
+2013,Cleveland Browns,16,4,6,0,25.0,37.5,0.0
+2013,Dallas Cowboys,16,8,8,0,50.0,50.0,0.0
+2013,Denver Broncos,19,15,12,1,78.95,63.16,5.26
+2013,Detroit Lions,16,7,7,0,43.75,43.75,0.0
+2013,Green Bay Packers,17,8,7,0,47.06,41.18,0.0
+2013,Houston Texans,16,2,4,0,12.5,25.0,0.0
+2013,Indianapolis Colts,18,12,9,1,66.67,50.0,5.56
+2013,Jacksonville Jaguars,16,4,5,0,25.0,31.25,0.0
+2013,Kansas City Chiefs,17,11,10,0,64.71,58.82,0.0
+2013,Miami Dolphins,16,8,7,0,50.0,43.75,0.0
+2013,Minnesota Vikings,16,5,8,0,31.25,50.0,0.0
+2013,New England Patriots,18,13,11,1,72.22,61.11,5.56
+2013,New Orleans Saints,18,12,12,0,66.67,66.67,0.0
+2013,New York Giants,16,7,7,0,43.75,43.75,0.0
+2013,New York Jets,16,8,7,2,50.0,43.75,12.5
+2013,Oakland Raiders,16,4,8,0,25.0,50.0,0.0
+2013,Philadelphia Eagles,17,10,9,0,58.82,52.94,0.0
+2013,Pittsburgh Steelers,16,8,9,0,50.0,56.25,0.0
+2013,San Diego Chargers,18,10,10,1,55.56,55.56,5.56
+2013,San Francisco 49ers,19,14,13,1,73.68,68.42,5.26
+2013,Seattle Seahawks,19,16,13,1,84.21,68.42,5.26
+2013,St. Louis Rams,16,7,6,0,43.75,37.5,0.0
+2013,Tampa Bay Buccaneers,16,4,6,0,25.0,37.5,0.0
+2013,Tennessee Titans,16,7,7,1,43.75,43.75,6.25
+2013,Washington Redskins,16,3,4,0,18.75,25.0,0.0
+2014,Arizona Cardinals,17,11,11,0,64.71,64.71,0.0
+2014,Atlanta Falcons,16,6,6,1,37.5,37.5,6.25
+2014,Baltimore Ravens,18,11,10,0,61.11,55.56,0.0
+2014,Buffalo Bills,16,9,10,0,56.25,62.5,0.0
+2014,Carolina Panthers,18,8,7,0,44.44,38.89,0.0
+2014,Chicago Bears,16,5,6,0,31.25,37.5,0.0
+2014,Cincinnati Bengals,17,10,9,1,58.82,52.94,5.88
+2014,Cleveland Browns,16,7,8,0,43.75,50.0,0.0
+2014,Dallas Cowboys,18,13,12,0,72.22,66.67,0.0
+2014,Denver Broncos,17,12,8,0,70.59,47.06,0.0
+2014,Detroit Lions,17,11,10,0,64.71,58.82,0.0
+2014,Green Bay Packers,18,13,11,1,72.22,61.11,5.56
+2014,Houston Texans,16,9,9,1,56.25,56.25,6.25
+2014,Indianapolis Colts,19,13,13,1,68.42,68.42,5.26
+2014,Jacksonville Jaguars,16,3,5,1,18.75,31.25,6.25
+2014,Kansas City Chiefs,16,9,11,0,56.25,68.75,0.0
+2014,Miami Dolphins,16,8,8,0,50.0,50.0,0.0
+2014,Minnesota Vikings,16,7,9,0,43.75,56.25,0.0
+2014,New England Patriots,19,15,12,0,78.95,63.16,0.0
+2014,New Orleans Saints,16,7,8,1,43.75,50.0,6.25
+2014,New York Giants,16,6,7,0,37.5,43.75,0.0
+2014,New York Jets,16,4,4,1,25.0,25.0,6.25
+2014,Oakland Raiders,16,3,5,0,18.75,31.25,0.0
+2014,Philadelphia Eagles,16,10,10,0,62.5,62.5,0.0
+2014,Pittsburgh Steelers,17,11,10,0,64.71,58.82,0.0
+2014,San Diego Chargers,16,9,8,0,56.25,50.0,0.0
+2014,San Francisco 49ers,16,8,6,1,50.0,37.5,6.25
+2014,Seattle Seahawks,19,14,12,1,73.68,63.16,5.26
+2014,St. Louis Rams,16,6,6,0,37.5,37.5,0.0
+2014,Tampa Bay Buccaneers,16,2,5,0,12.5,31.25,0.0
+2014,Tennessee Titans,16,2,2,0,12.5,12.5,0.0
+2014,Washington Redskins,16,4,4,0,25.0,25.0,0.0
+2015,Arizona Cardinals,18,14,10,0,77.78,55.56,0.0
+2015,Atlanta Falcons,16,8,6,1,50.0,37.5,6.25
+2015,Baltimore Ravens,16,5,6,1,31.25,37.5,6.25
+2015,Buffalo Bills,16,8,9,1,50.0,56.25,6.25
+2015,Carolina Panthers,19,17,15,1,89.47,78.95,5.26
+2015,Chicago Bears,16,6,6,0,37.5,37.5,0.0
+2015,Cincinnati Bengals,17,12,12,1,70.59,70.59,5.88
+2015,Cleveland Browns,16,3,5,0,18.75,31.25,0.0
+2015,Dallas Cowboys,16,4,3,0,25.0,18.75,0.0
+2015,Denver Broncos,19,15,12,0,78.95,63.16,0.0
+2015,Detroit Lions,16,7,7,0,43.75,43.75,0.0
+2015,Green Bay Packers,18,11,11,0,61.11,61.11,0.0
+2015,Houston Texans,17,9,9,0,52.94,52.94,0.0
+2015,Indianapolis Colts,16,8,7,0,50.0,43.75,0.0
+2015,Jacksonville Jaguars,16,5,5,1,31.25,31.25,6.25
+2015,Kansas City Chiefs,18,12,9,0,66.67,50.0,0.0
+2015,Miami Dolphins,16,6,5,1,37.5,31.25,6.25
+2015,Minnesota Vikings,17,11,13,0,64.71,76.47,0.0
+2015,New England Patriots,18,13,11,4,72.22,61.11,22.22
+2015,New Orleans Saints,16,7,7,1,43.75,43.75,6.25
+2015,New York Giants,16,6,6,1,37.5,37.5,6.25
+2015,New York Jets,16,10,9,1,62.5,56.25,6.25
+2015,Oakland Raiders,16,7,8,0,43.75,50.0,0.0
+2015,Philadelphia Eagles,16,7,8,1,43.75,50.0,6.25
+2015,Pittsburgh Steelers,18,11,11,1,61.11,61.11,5.56
+2015,San Diego Chargers,16,4,8,0,25.0,50.0,0.0
+2015,San Francisco 49ers,16,5,4,1,31.25,25.0,6.25
+2015,Seattle Seahawks,18,11,11,1,61.11,61.11,5.56
+2015,St. Louis Rams,16,7,6,2,43.75,37.5,12.5
+2015,Tampa Bay Buccaneers,16,6,7,0,37.5,43.75,0.0
+2015,Tennessee Titans,16,3,2,1,18.75,12.5,6.25
+2015,Washington Redskins,17,9,8,1,52.94,47.06,5.88
+2016,Arizona Cardinals,16,7,6,0,43.75,37.5,0.0
+2016,Atlanta Falcons,19,13,12,0,68.42,63.16,0.0
+2016,Baltimore Ravens,16,8,8,0,50.0,50.0,0.0
+2016,Buffalo Bills,16,7,6,0,43.75,37.5,0.0
+2016,Carolina Panthers,16,6,8,0,37.5,50.0,0.0
+2016,Chicago Bears,16,3,4,1,18.75,25.0,6.25
+2016,Cincinnati Bengals,16,6,7,0,37.5,43.75,0.0
+2016,Cleveland Browns,16,1,2,1,6.25,12.5,6.25
+2016,Dallas Cowboys,17,13,12,0,76.47,70.59,0.0
+2016,Denver Broncos,16,9,8,0,56.25,50.0,0.0
+2016,Detroit Lions,17,9,7,1,52.94,41.18,5.88
+2016,Green Bay Packers,19,12,12,1,63.16,63.16,5.26
+2016,Houston Texans,18,10,7,1,55.56,38.89,5.56
+2016,Indianapolis Colts,16,8,7,1,50.0,43.75,6.25
+2016,Jacksonville Jaguars,16,3,7,0,18.75,43.75,0.0
+2016,Kansas City Chiefs,17,12,9,0,70.59,52.94,0.0
+2016,Los Angeles Rams,16,4,4,0,25.0,25.0,0.0
+2016,Miami Dolphins,17,10,9,1,58.82,52.94,5.88
+2016,Minnesota Vikings,16,8,8,0,50.0,50.0,0.0
+2016,New England Patriots,19,17,17,0,89.47,89.47,0.0
+2016,New Orleans Saints,16,7,11,0,43.75,68.75,0.0
+2016,New York Giants,17,11,8,1,64.71,47.06,5.88
+2016,New York Jets,16,5,5,0,31.25,31.25,0.0
+2016,Oakland Raiders,17,12,10,0,70.59,58.82,0.0
+2016,Philadelphia Eagles,16,7,9,0,43.75,56.25,0.0
+2016,Pittsburgh Steelers,19,13,11,1,68.42,57.89,5.26
+2016,San Diego Chargers,16,5,8,0,31.25,50.0,0.0
+2016,San Francisco 49ers,16,2,3,1,12.5,18.75,6.25
+2016,Seattle Seahawks,18,11,10,0,61.11,55.56,0.0
+2016,Tampa Bay Buccaneers,16,9,9,0,56.25,56.25,0.0
+2016,Tennessee Titans,16,9,8,0,56.25,50.0,0.0
+2016,Washington Redskins,16,8,10,0,50.0,62.5,0.0
+2017,Arizona Cardinals,16,8,6,0,50.0,37.5,0.0
+2017,Atlanta Falcons,18,11,11,1,61.11,61.11,5.56
+2017,Baltimore Ravens,16,9,8,2,56.25,50.0,12.5
+2017,Buffalo Bills,17,9,9,1,52.94,52.94,5.88
+2017,Carolina Panthers,17,11,9,1,64.71,52.94,5.88
+2017,Chicago Bears,16,5,6,0,31.25,37.5,0.0
+2017,Cincinnati Bengals,16,7,8,0,43.75,50.0,0.0
+2017,Cleveland Browns,16,0,2,0,0.0,12.5,0.0
+2017,Dallas Cowboys,16,9,9,0,56.25,56.25,0.0
+2017,Denver Broncos,16,5,4,0,31.25,25.0,0.0
+2017,Detroit Lions,16,9,9,0,56.25,56.25,0.0
+2017,Green Bay Packers,16,7,7,0,43.75,43.75,0.0
+2017,Houston Texans,16,4,6,1,25.0,37.5,6.25
+2017,Indianapolis Colts,16,4,6,0,25.0,37.5,0.0
+2017,Jacksonville Jaguars,19,12,12,1,63.16,63.16,5.26
+2017,Kansas City Chiefs,17,10,12,0,58.82,70.59,0.0
+2017,Los Angeles Chargers,16,9,10,0,56.25,62.5,0.0
+2017,Los Angeles Rams,17,11,11,0,64.71,64.71,0.0
+2017,Miami Dolphins,16,6,4,1,37.5,25.0,6.25
+2017,Minnesota Vikings,18,14,12,0,77.78,66.67,0.0
+2017,New England Patriots,19,15,14,0,78.95,73.68,0.0
+2017,New Orleans Saints,18,12,9,0,66.67,50.0,0.0
+2017,New York Giants,16,3,5,0,18.75,31.25,0.0
+2017,New York Jets,16,5,6,2,31.25,37.5,12.5
+2017,Oakland Raiders,16,6,5,0,37.5,31.25,0.0
+2017,Philadelphia Eagles,19,16,14,0,84.21,73.68,0.0
+2017,Pittsburgh Steelers,17,13,11,0,76.47,64.71,0.0
+2017,San Francisco 49ers,16,6,8,0,37.5,50.0,0.0
+2017,Seattle Seahawks,16,9,7,0,56.25,43.75,0.0
+2017,Tampa Bay Buccaneers,16,5,5,1,31.25,31.25,6.25
+2017,Tennessee Titans,18,10,9,1,55.56,50.0,5.56
+2017,Washington Redskins,16,7,7,0,43.75,43.75,0.0
+2018,Arizona Cardinals,16,3,5,1,18.75,31.25,6.25
+2018,Atlanta Falcons,16,7,6,0,43.75,37.5,0.0
+2018,Baltimore Ravens,17,10,8,1,58.82,47.06,5.88
+2018,Buffalo Bills,16,6,5,1,37.5,31.25,6.25
+2018,Carolina Panthers,16,7,7,0,43.75,43.75,0.0
+2018,Chicago Bears,17,12,15,0,70.59,88.24,0.0
+2018,Cincinnati Bengals,16,6,9,0,37.5,56.25,0.0
+2018,Cleveland Browns,16,7,8,1,43.75,50.0,6.25
+2018,Dallas Cowboys,18,11,8,0,61.11,44.44,0.0
+2018,Denver Broncos,16,6,5,1,37.5,31.25,6.25
+2018,Detroit Lions,16,6,8,0,37.5,50.0,0.0
+2018,Green Bay Packers,16,6,5,1,37.5,31.25,6.25
+2018,Houston Texans,17,11,10,0,64.71,58.82,0.0
+2018,Indianapolis Colts,18,11,9,1,61.11,50.0,5.56
+2018,Jacksonville Jaguars,16,5,5,2,31.25,31.25,12.5
+2018,Kansas City Chiefs,18,13,11,1,72.22,61.11,5.56
+2018,Los Angeles Chargers,18,13,10,0,72.22,55.56,0.0
+2018,Los Angeles Rams,19,15,11,1,78.95,57.89,5.26
+2018,Miami Dolphins,16,7,6,0,43.75,37.5,0.0
+2018,Minnesota Vikings,16,8,9,1,50.0,56.25,6.25
+2018,New England Patriots,19,14,13,0,73.68,68.42,0.0
+2018,New Orleans Saints,18,14,12,0,77.78,66.67,0.0
+2018,New York Giants,16,5,7,1,31.25,43.75,6.25
+2018,New York Jets,16,4,5,0,25.0,31.25,0.0
+2018,Oakland Raiders,16,4,4,0,25.0,25.0,0.0
+2018,Philadelphia Eagles,18,10,9,1,55.56,50.0,5.56
+2018,Pittsburgh Steelers,16,9,11,0,56.25,68.75,0.0
+2018,San Francisco 49ers,16,4,4,0,25.0,25.0,0.0
+2018,Seattle Seahawks,17,10,11,2,58.82,64.71,11.76
+2018,Tampa Bay Buccaneers,16,5,7,1,31.25,43.75,6.25
+2018,Tennessee Titans,16,9,7,1,56.25,43.75,6.25
+2018,Washington Redskins,16,7,8,0,43.75,50.0,0.0
+2019,Arizona Cardinals,16,5,6,2,31.25,37.5,12.5
+2019,Atlanta Falcons,16,7,8,0,43.75,50.0,0.0
+2019,Baltimore Ravens,17,14,11,1,82.35,64.71,5.88
+2019,Buffalo Bills,17,10,8,1,58.82,47.06,5.88
+2019,Carolina Panthers,16,5,6,0,31.25,37.5,0.0
+2019,Chicago Bears,16,8,8,0,50.0,50.0,0.0
+2019,Cincinnati Bengals,16,2,6,0,12.5,37.5,0.0
+2019,Cleveland Browns,16,6,5,1,37.5,31.25,6.25
+2019,Dallas Cowboys,16,8,11,0,50.0,68.75,0.0
+2019,Denver Broncos,16,7,7,0,43.75,43.75,0.0
+2019,Detroit Lions,16,3,5,0,18.75,31.25,0.0
+2019,Green Bay Packers,18,14,12,0,77.78,66.67,0.0
+2019,Houston Texans,18,11,9,0,61.11,50.0,0.0
+2019,Indianapolis Colts,16,7,7,2,43.75,43.75,12.5
+2019,Jacksonville Jaguars,16,6,7,0,37.5,43.75,0.0
+2019,Kansas City Chiefs,19,15,14,1,78.95,73.68,5.26
+2019,Los Angeles Chargers,16,5,5,1,31.25,31.25,6.25
+2019,Los Angeles Rams,16,9,10,1,56.25,62.5,6.25
+2019,Miami Dolphins,16,5,7,0,31.25,43.75,0.0
+2019,Minnesota Vikings,18,11,10,0,61.11,55.56,0.0
+2019,New England Patriots,17,12,10,0,70.59,58.82,0.0
+2019,New Orleans Saints,17,13,10,0,76.47,58.82,0.0
+2019,New York Giants,16,4,7,0,25.0,43.75,0.0
+2019,New York Jets,16,7,6,0,43.75,37.5,0.0
+2019,Oakland Raiders,16,7,7,0,43.75,43.75,0.0
+2019,Philadelphia Eagles,17,9,8,0,52.94,47.06,0.0
+2019,Pittsburgh Steelers,16,8,8,0,50.0,50.0,0.0
+2019,San Francisco 49ers,19,15,13,1,78.95,68.42,5.26
+2019,Seattle Seahawks,18,12,10,0,66.67,55.56,0.0
+2019,Tampa Bay Buccaneers,16,7,5,1,43.75,31.25,6.25
+2019,Tennessee Titans,19,11,10,0,57.89,52.63,0.0
+2019,Washington Redskins,16,3,5,0,18.75,31.25,0.0
+2020,Arizona Cardinals,16,8,6,0,50.0,37.5,0.0
+2020,Atlanta Falcons,16,4,6,0,25.0,37.5,0.0
+2020,Baltimore Ravens,18,12,13,1,66.67,72.22,5.56
+2020,Buffalo Bills,19,15,14,0,78.95,73.68,0.0
+2020,Carolina Panthers,16,5,9,0,31.25,56.25,0.0
+2020,Chicago Bears,17,8,6,0,47.06,35.29,0.0
+2020,Cincinnati Bengals,16,4,6,0,25.0,37.5,0.0
+2020,Cleveland Browns,18,12,10,0,66.67,55.56,0.0
+2020,Dallas Cowboys,16,6,4,0,37.5,25.0,0.0
+2020,Denver Broncos,16,5,6,0,31.25,37.5,0.0
+2020,Detroit Lions,16,5,4,1,31.25,25.0,6.25
+2020,Green Bay Packers,18,14,12,0,77.78,66.67,0.0
+2020,Houston Texans,16,4,6,0,25.0,37.5,0.0
+2020,Indianapolis Colts,17,11,10,0,64.71,58.82,0.0
+2020,Jacksonville Jaguars,16,1,4,0,6.25,25.0,0.0
+2020,Kansas City Chiefs,19,16,12,0,84.21,63.16,0.0
+2020,Las Vegas Raiders,16,8,8,0,50.0,50.0,0.0
+2020,Los Angeles Chargers,16,7,8,1,43.75,50.0,6.25
+2020,Los Angeles Rams,18,11,10,0,61.11,55.56,0.0
+2020,Miami Dolphins,16,10,10,0,62.5,62.5,0.0
+2020,Minnesota Vikings,16,7,6,0,43.75,37.5,0.0
+2020,New England Patriots,16,7,7,0,43.75,43.75,0.0
+2020,New Orleans Saints,18,13,12,0,72.22,66.67,0.0
+2020,New York Giants,16,6,9,0,37.5,56.25,0.0
+2020,New York Jets,16,2,3,0,12.5,18.75,0.0
+2020,Philadelphia Eagles,16,4,2,0,25.0,12.5,0.0
+2020,Pittsburgh Steelers,17,12,12,1,70.59,70.59,5.88
+2020,San Francisco 49ers,16,6,6,0,37.5,37.5,0.0
+2020,Seattle Seahawks,17,12,12,0,70.59,70.59,0.0
+2020,Tampa Bay Buccaneers,20,15,15,1,75.0,75.0,5.0
+2020,Tennessee Titans,17,11,10,0,64.71,58.82,0.0
+2020,Washington Football Team,17,7,8,1,41.18,47.06,5.88
+2021,Arizona Cardinals,18,11,10,0,61.11,55.56,0.0
+2021,Atlanta Falcons,17,7,6,1,41.18,35.29,5.88
+2021,Baltimore Ravens,17,8,7,0,47.06,41.18,0.0
+2021,Buffalo Bills,19,12,12,2,63.16,63.16,10.53
+2021,Carolina Panthers,17,5,4,1,29.41,23.53,5.88
+2021,Chicago Bears,17,6,6,1,35.29,35.29,5.88
+2021,Cincinnati Bengals,21,13,12,2,61.9,57.14,9.52
+2021,Cleveland Browns,17,8,6,0,47.06,35.29,0.0
+2021,Dallas Cowboys,18,12,13,0,66.67,72.22,0.0
+2021,Denver Broncos,17,7,7,0,41.18,41.18,0.0
+2021,Detroit Lions,17,3,7,0,17.65,41.18,0.0
+2021,Green Bay Packers,18,13,13,0,72.22,72.22,0.0
+2021,Houston Texans,17,4,4,0,23.53,23.53,0.0
+2021,Indianapolis Colts,17,9,9,0,52.94,52.94,0.0
+2021,Jacksonville Jaguars,17,3,4,0,17.65,23.53,0.0
+2021,Kansas City Chiefs,20,14,13,0,70.0,65.0,0.0
+2021,Las Vegas Raiders,18,10,8,1,55.56,44.44,5.56
+2021,Los Angeles Chargers,17,9,9,1,52.94,52.94,5.88
+2021,Los Angeles Rams,21,16,14,0,76.19,66.67,0.0
+2021,Miami Dolphins,17,9,9,1,52.94,52.94,5.88
+2021,Minnesota Vikings,17,8,10,1,47.06,58.82,5.88
+2021,New England Patriots,18,10,10,0,55.56,55.56,0.0
+2021,New Orleans Saints,17,9,10,0,52.94,58.82,0.0
+2021,New York Giants,17,4,6,0,23.53,35.29,0.0
+2021,New York Jets,17,4,3,1,23.53,17.65,5.88
+2021,Philadelphia Eagles,18,9,8,1,50.0,44.44,5.56
+2021,Pittsburgh Steelers,18,9,7,0,50.0,38.89,0.0
+2021,San Francisco 49ers,20,12,14,0,60.0,70.0,0.0
+2021,Seattle Seahawks,17,7,8,0,41.18,47.06,0.0
+2021,Tampa Bay Buccaneers,19,14,13,1,73.68,68.42,5.26
+2021,Tennessee Titans,18,12,10,0,66.67,55.56,0.0
+2021,Washington Football Team,17,7,5,2,41.18,29.41,11.76
+2022,Arizona Cardinals,17,4,5,0,23.53,29.41,0.0
+2022,Atlanta Falcons,17,7,8,0,41.18,47.06,0.0
+2022,Baltimore Ravens,18,10,9,1,55.56,50.0,5.56
+2022,Buffalo Bills,18,14,12,0,77.78,66.67,0.0
+2022,Carolina Panthers,17,7,9,0,41.18,52.94,0.0
+2022,Chicago Bears,17,3,3,1,17.65,17.65,5.88
+2022,Cincinnati Bengals,19,14,14,1,73.68,73.68,5.26
+2022,Cleveland Browns,17,7,8,0,41.18,47.06,0.0
+2022,Dallas Cowboys,19,13,11,0,68.42,57.89,0.0
+2022,Denver Broncos,17,5,6,0,29.41,35.29,0.0
+2022,Detroit Lions,17,9,10,0,52.94,58.82,0.0
+2022,Green Bay Packers,17,8,8,0,47.06,47.06,0.0
+2022,Houston Texans,17,3,5,1,17.65,29.41,5.88
+2022,Indianapolis Colts,17,4,5,0,23.53,29.41,0.0
+2022,Jacksonville Jaguars,19,10,8,0,52.63,42.11,0.0
+2022,Kansas City Chiefs,20,17,13,0,85.0,65.0,0.0
+2022,Las Vegas Raiders,17,6,8,1,35.29,47.06,5.88
+2022,Los Angeles Chargers,18,10,12,1,55.56,66.67,5.56
+2022,Los Angeles Rams,17,5,4,1,29.41,23.53,5.88
+2022,Miami Dolphins,18,9,10,0,50.0,55.56,0.0
+2022,Minnesota Vikings,18,13,9,0,72.22,50.0,0.0
+2022,New England Patriots,17,8,8,0,47.06,47.06,0.0
+2022,New Orleans Saints,17,7,7,0,41.18,41.18,0.0
+2022,New York Giants,19,10,12,0,52.63,63.16,0.0
+2022,New York Jets,17,7,7,0,41.18,41.18,0.0
+2022,Philadelphia Eagles,20,16,15,0,80.0,75.0,0.0
+2022,Pittsburgh Steelers,17,9,9,0,52.94,52.94,0.0
+2022,San Francisco 49ers,20,15,15,0,75.0,75.0,0.0
+2022,Seattle Seahawks,18,9,7,0,50.0,38.89,0.0
+2022,Tampa Bay Buccaneers,18,8,6,1,44.44,33.33,5.56
+2022,Tennessee Titans,17,7,8,2,41.18,47.06,11.76
+2022,Washington Commanders,17,8,8,0,47.06,47.06,0.0
+2023,Arizona Cardinals,17,4,3,2,23.53,17.65,11.76
+2023,Atlanta Falcons,17,7,6,1,41.18,35.29,5.88
+2023,Baltimore Ravens,19,14,13,0,73.68,68.42,0.0
+2023,Buffalo Bills,19,12,10,0,63.16,52.63,0.0
+2023,Carolina Panthers,17,2,1,0,11.76,5.88,0.0
+2023,Chicago Bears,17,7,8,1,41.18,47.06,5.88
+2023,Cincinnati Bengals,17,9,8,1,52.94,47.06,5.88
+2023,Cleveland Browns,18,11,9,2,61.11,50.0,11.11
+2023,Dallas Cowboys,18,12,11,0,66.67,61.11,0.0
+2023,Denver Broncos,17,8,7,0,47.06,41.18,0.0
+2023,Detroit Lions,20,14,14,0,70.0,70.0,0.0
+2023,Green Bay Packers,19,10,11,2,52.63,57.89,10.53
+2023,Houston Texans,19,11,11,1,57.89,57.89,5.26
+2023,Indianapolis Colts,17,9,8,0,52.94,47.06,0.0
+2023,Jacksonville Jaguars,17,9,9,0,52.94,52.94,0.0
+2023,Kansas City Chiefs,21,15,15,0,71.43,71.43,0.0
+2023,Las Vegas Raiders,17,8,10,0,47.06,58.82,0.0
+2023,Los Angeles Chargers,17,5,5,1,29.41,29.41,5.88
+2023,Los Angeles Rams,18,10,11,0,55.56,61.11,0.0
+2023,Miami Dolphins,18,11,10,0,61.11,55.56,0.0
+2023,Minnesota Vikings,17,7,7,2,41.18,41.18,11.76
+2023,New England Patriots,17,4,5,0,23.53,29.41,0.0
+2023,New Orleans Saints,17,9,7,1,52.94,41.18,5.88
+2023,New York Giants,17,6,6,0,35.29,35.29,0.0
+2023,New York Jets,17,7,5,0,41.18,29.41,0.0
+2023,Philadelphia Eagles,18,11,10,1,61.11,55.56,5.56
+2023,Pittsburgh Steelers,18,10,10,0,55.56,55.56,0.0
+2023,San Francisco 49ers,20,14,12,0,70.0,60.0,0.0
+2023,Seattle Seahawks,17,9,9,1,52.94,52.94,5.88
+2023,Tampa Bay Buccaneers,19,10,13,0,52.63,68.42,0.0
+2023,Tennessee Titans,17,6,7,0,35.29,41.18,0.0
+2023,Washington Commanders,17,4,6,0,23.53,35.29,0.0
+2024,Arizona Cardinals,17,8,11,0,47.06,64.71,0.0
+2024,Atlanta Falcons,17,8,8,0,47.06,47.06,0.0
+2024,Baltimore Ravens,19,13,13,1,68.42,68.42,5.26
+2024,Buffalo Bills,20,15,13,0,75.0,65.0,0.0
+2024,Carolina Panthers,17,5,4,0,29.41,23.53,0.0
+2024,Chicago Bears,17,5,6,1,29.41,35.29,5.88
+2024,Cincinnati Bengals,17,9,11,0,52.94,64.71,0.0
+2024,Cleveland Browns,17,3,3,0,17.65,17.65,0.0
+2024,Dallas Cowboys,17,7,6,0,41.18,35.29,0.0
+2024,Denver Broncos,18,10,11,1,55.56,61.11,5.56
+2024,Detroit Lions,18,15,13,0,83.33,72.22,0.0
+2024,Green Bay Packers,18,11,11,0,61.11,61.11,0.0
+2024,Houston Texans,19,11,10,1,57.89,52.63,5.26
+2024,Indianapolis Colts,17,8,9,0,47.06,52.94,0.0
+2024,Jacksonville Jaguars,17,4,7,0,23.53,41.18,0.0
+2024,Kansas City Chiefs,20,17,11,0,85.0,55.0,0.0
+2024,Las Vegas Raiders,17,4,6,0,23.53,35.29,0.0
+2024,Los Angeles Chargers,18,11,12,0,61.11,66.67,0.0
+2024,Los Angeles Rams,19,11,8,0,57.89,42.11,0.0
+2024,Miami Dolphins,17,8,7,0,47.06,41.18,0.0
+2024,Minnesota Vikings,18,14,13,0,77.78,72.22,0.0
+2024,New England Patriots,17,4,5,0,23.53,29.41,0.0
+2024,New Orleans Saints,17,5,7,0,29.41,41.18,0.0
+2024,New York Giants,17,3,4,0,17.65,23.53,0.0
+2024,New York Jets,17,5,7,0,29.41,41.18,0.0
+2024,Philadelphia Eagles,21,18,15,0,85.71,71.43,0.0
+2024,Pittsburgh Steelers,18,10,9,0,55.56,50.0,0.0
+2024,San Francisco 49ers,17,6,7,0,35.29,41.18,0.0
+2024,Seattle Seahawks,17,10,9,1,58.82,52.94,5.88
+2024,Tampa Bay Buccaneers,18,10,11,0,55.56,61.11,0.0
+2024,Tennessee Titans,17,3,2,0,17.65,11.76,0.0
+2024,Washington Commanders,20,14,13,1,70.0,65.0,5.0
