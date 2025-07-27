@@ -1,7 +1,7 @@
 # Covering the Spread: A Narrative Visualization of NFL Betting Trends
 
-This project is an interactive narrative visualization that explains and explores NFL betting trends — specifically, what it means to *cover the spread* 
-and how teams have performed against it over time. It uses the **martini glass structure**, progressing from a guided narrative into interactive exploration.
+This project is an interactive narrative visualization that explains and explores NFL betting trends specifically, what it means to cover the spread 
+and how teams have performed against it over time. It uses the martini glass structure, progressing from a guided narrative into interactive exploration.
 
 
 ## Project Goal
